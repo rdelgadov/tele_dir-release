@@ -1,0 +1,12 @@
+Source: ros-indigo-tele-dir
+Section: misc
+Priority: extra
+Maintainer: Rodrigo Delgado <rdelgadovega@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-rospy, ros-indigo-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-tele-dir
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-rospy, ros-indigo-std-msgs
+Description: tele_dir is a tele operation software designed to be configurable to both robot side and human side.
