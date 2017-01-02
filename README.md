@@ -1,3 +1,26 @@
+## tele_dir (indigo) - 0.0.4-0
+
+The packages in the `tele_dir` repository were released into the `indigo` distro by running `/usr/bin/bloom-release tele_dir --track indigo --rosdistro indigo` on `Mon, 02 Jan 2017 23:51:49 -0000`
+
+The `tele_dir` package was released.
+
+Version of package(s) in repository `tele_dir`:
+
+- upstream repository: https://github.com/rdelgadov/tele_dir
+- release repository: https://github.com/rdelgadov/tele_dir-release.git
+- rosdistro version: `0.0.3-0`
+- old version: `0.0.3-0`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## tele_dir (indigo) - 0.0.3-0
 
 The packages in the `tele_dir` repository were released into the `indigo` distro by running `/usr/bin/bloom-release tele_dir --track indigo --rosdistro indigo` on `Thu, 15 Dec 2016 16:08:58 -0000`
