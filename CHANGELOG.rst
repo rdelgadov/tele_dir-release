@@ -2,6 +2,15 @@
 Changelog for package tele_dir
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2017-01-02)
+------------------
+* Create setup.py
+* Update CMakeLists.txt
+* Update CMakeLists.txt
+* Delete CMakeLists.txt~
+* Delete package.xml~
+* Contributors: Rodrigo Alexis Delgado Vega
+
 0.0.3 (2016-12-15)
 ------------------
 * Change package description
